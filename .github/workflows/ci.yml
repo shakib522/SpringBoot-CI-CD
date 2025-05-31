@@ -48,7 +48,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: user/app:latest
+        tags: shakib19/spring-ci-cd:latest
 
 
     # NOTE: The Gradle Wrapper is the default and recommended way to run Gradle (https://docs.gradle.org/current/userguide/gradle_wrapper.html).
